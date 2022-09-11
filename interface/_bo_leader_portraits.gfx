@@ -98,5 +98,13 @@ spriteTypes = {
 			name = "GFX_Portrait_CHB_Mate_Boban"
 			texturefile = "gfx/leaders/CHB/Portrait_CHB_Mate_Boban.dds"
 		}
+		
+		
+		### REST OF EUROPE 
+	
+		spriteType = {
+			name = "GFX_portrait_IRE_Albert_Reynolds"
+			texturefile = "gfx/leaders/IRE/Portrait_IRE_Albert_Reynolds.dds"
+		}
 	
 }
