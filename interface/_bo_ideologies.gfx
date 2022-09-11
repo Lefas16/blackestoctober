@@ -10,4 +10,36 @@ spriteTypes = {
 		name = "GFX_ideology_progressivism_group"
 		texturefile = "gfx/interface/ideologies/progressivism_group.dds"
 	}	
+	spriteType = {
+		name = "GFX_ideology_despotism_group"
+		texturefile = "gfx/interface/ideologies/despotism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_mod_socialism_group"
+		texturefile = "gfx/interface/ideologies/socialism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_mod_despotism_group"
+		texturefile = "gfx/interface/ideologies/despotism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_mod_anocratic_group"
+		texturefile = "gfx/interface/ideologies/anocratic_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_mod_rev_socialism_group"
+		texturefile = "gfx/interface/ideologies/rev_socialism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_mod_theocratic_group"
+		texturefile = "gfx/interface/ideologies/theocratic_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_ultra_nationalism_group"
+		texturefile = "gfx/interface/ideologies/ultra_nationalism_group.dds"
+	}
+	spriteType = {
+		name = "GFX_ideology_unknown_group"
+		texturefile = "gfx/interface/ideologies/unknown.dds"
+	}
 }
